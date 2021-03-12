@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kkstock/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kkstock/static/js/main.d7843849.chunk.js",
+    "main.js.map": "/kkstock/static/js/main.d7843849.chunk.js.map",
+    "runtime-main.js": "/kkstock/static/js/runtime-main.4fde302f.js",
+    "runtime-main.js.map": "/kkstock/static/js/runtime-main.4fde302f.js.map",
+    "static/css/2.5507de79.chunk.css": "/kkstock/static/css/2.5507de79.chunk.css",
+    "static/js/2.2637d0db.chunk.js": "/kkstock/static/js/2.2637d0db.chunk.js",
+    "static/js/2.2637d0db.chunk.js.map": "/kkstock/static/js/2.2637d0db.chunk.js.map",
+    "static/js/3.2a34f8de.chunk.js": "/kkstock/static/js/3.2a34f8de.chunk.js",
+    "static/js/3.2a34f8de.chunk.js.map": "/kkstock/static/js/3.2a34f8de.chunk.js.map",
+    "index.html": "/kkstock/index.html",
+    "static/css/2.5507de79.chunk.css.map": "/kkstock/static/css/2.5507de79.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kkstock/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2637d0db.chunk.js.LICENSE.txt": "/kkstock/static/js/2.2637d0db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fde302f.js",
+    "static/css/2.5507de79.chunk.css",
+    "static/js/2.2637d0db.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d7843849.chunk.js"
+  ]
+}
